@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Blake — a motivated and detail-oriented IT professional starting my IT journey. I have a strong foundation in computer systems, networking basics, and technical troubleshooting, and I'm excited to keep building my skills and grow into a full-time IT role.
 
 <!--
 **BlakePfeifer/BlakePfeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
