@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Blake an IT Professional
+## Hi there 👋 I'm Blake an aspiring IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
