@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in Microsoft Azure](https://github.com/BlakePfeifer/Virtual-Machine-Azure)
-  - [Azure-Resource-Groups](https://github.com/BlakePfeifer/Azure-Resource-Groups)
+  - [Creating Azure-Resource-Groups](https://github.com/BlakePfeifer/Azure-Resource-Groups)
 
 <h2>🤳Connect with me:</h2>
 
