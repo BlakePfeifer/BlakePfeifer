@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in Microsoft Azure](https://github.com/BlakePfeifer/Virtual-Machine-Azure)
   - [Creating Azure-Resource-Groups](https://github.com/BlakePfeifer/Azure-Resource-Groups)
-
+  - [Creating Azure-Networks](https://github.com/BlakePfeifer/Azure-Networks)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
