@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/BlakePfeifer/osticket-prereqs)
+  - [osTicket: Prereqs & Install](https://github.com/BlakePfeifer/osticket-prereqs)
 
 
 - <b>Microsoft Azure</b>
