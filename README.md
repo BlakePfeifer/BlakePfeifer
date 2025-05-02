@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/bbbbbblyy
-[linkedin]: https://linkedin.com/in/BlakePfeifer
+[linkedin]: https://linkedin.com/in/Blake-Pfeifer
